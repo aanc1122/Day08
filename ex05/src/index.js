@@ -1,7 +1,7 @@
 var dress = "little dress";
 
 function myDress() {
-    dress = "ball gown";
+    var dress = "ball gown";
     return dress;
     
 }
